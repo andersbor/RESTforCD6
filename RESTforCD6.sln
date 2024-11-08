@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTforCD6", "RESTforCD6\RESTforCD6.csproj", "{2565793D-286B-493C-A3E1-4D5482D45B2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2565793D-286B-493C-A3E1-4D5482D45B2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2565793D-286B-493C-A3E1-4D5482D45B2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2565793D-286B-493C-A3E1-4D5482D45B2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2565793D-286B-493C-A3E1-4D5482D45B2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CE5606D-20CA-4FC7-B7B7-CC4CD73BAA88}
+	EndGlobalSection
+EndGlobal
